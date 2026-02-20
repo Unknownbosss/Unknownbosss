@@ -16,7 +16,7 @@
 I am a **Computer Science Graduate** with a deep passion for building scalable applications and exploring the frontiers of **Artificial Intelligence**. I love turning complex problems into elegant, user-centric solutions.
 
 - 🎓 Computer Science Graduate.
-- 🔭 Currently working exclusively on <a href="https://fliptheswitch.africanclimatestories.org/" target="_blank" rel="noopener noreferrer"><strong>FlipTheSwitch</strong></a>.
+- 🔭 Currently working exclusively on <a href="https://fliptheswitch.africanclimatestories.org/" target="_blank" rel="noopener noreferrer"><strong>FlipTheSwitch</strong></a> and <a href="https://getmedford.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>GetMedFord</strong></a>.
 - 🌱 Learning more about AI integrations and advanced system design.
 - 💬 Ask me about **React, Node.js, or AI**.
 
